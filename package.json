@@ -1,0 +1,14 @@
+{
+  "name": "autotest",
+  "version": "1.0.0",
+  "description": "5930213009 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Jirawat Paenkaew",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
