@@ -94,6 +94,7 @@ describe('fizzbuzz',()=>{
         const number = 87;
         const result = libs.fizzbuzz(number);
         expect(result).toContain("Fizz"); 
+        
     })
     it('should return Buzz if number is 100',() =>{
         const number = 100;
